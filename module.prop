@@ -1,0 +1,6 @@
+id=lsd-nelshh
+name=lsd for Android
+version=v0.18.0
+versionCode=1
+author=nelshh
+description=A statically built version of the lsd tool for android (aarch64)
